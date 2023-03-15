@@ -16,5 +16,10 @@ Run build and start
 ```
 npm run build
 
+# if build fail run seprated command
+./node_modules/.bin/drupal-gutenberg-translations
+./node_modules/.bin/drupal-js-build --css
+
+
 npm start
 ```
