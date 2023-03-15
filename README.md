@@ -10,3 +10,11 @@ Install node-sass error use this instead
 ```bash
 npm i https://github.com/andeersg/drupal-js-build
 ```
+
+Run build and start
+
+```
+npm run build
+
+npm start
+```
